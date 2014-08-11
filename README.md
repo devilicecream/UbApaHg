@@ -10,4 +10,5 @@ This script install and configures Apache2 and the Mercurial server on Ubuntu > 
 Simply run:
 
 > sudo chmod +x ubapahg.sh
+
 > ./ubapahg.sh
